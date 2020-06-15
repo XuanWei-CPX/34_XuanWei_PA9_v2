@@ -1,0 +1,9 @@
+E:\Class Materials ITE\34_XuanWei_PA9_v2\bin\Debug\34_XuanWei_PA9_v2.exe.config
+E:\Class Materials ITE\34_XuanWei_PA9_v2\bin\Debug\34_XuanWei_PA9_v2.exe
+E:\Class Materials ITE\34_XuanWei_PA9_v2\bin\Debug\34_XuanWei_PA9_v2.pdb
+E:\Class Materials ITE\34_XuanWei_PA9_v2\obj\Debug\34_XuanWei_PA9_v2.csprojAssemblyReference.cache
+E:\Class Materials ITE\34_XuanWei_PA9_v2\obj\Debug\_34_XuanWei_PA9_v2.Form1.resources
+E:\Class Materials ITE\34_XuanWei_PA9_v2\obj\Debug\_34_XuanWei_PA9_v2.Properties.Resources.resources
+E:\Class Materials ITE\34_XuanWei_PA9_v2\obj\Debug\34_XuanWei_PA9_v2.csproj.GenerateResource.cache
+E:\Class Materials ITE\34_XuanWei_PA9_v2\obj\Debug\34_XuanWei_PA9_v2.exe
+E:\Class Materials ITE\34_XuanWei_PA9_v2\obj\Debug\34_XuanWei_PA9_v2.pdb
